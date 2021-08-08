@@ -1,0 +1,6 @@
+sid,123,tea
+newusr,123,coffee
+swaroop,a,gu
+hrishi,hrishi,chai
+hrishi,1234,chai
+Siddharth,12345,chai
